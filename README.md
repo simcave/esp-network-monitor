@@ -15,6 +15,11 @@ MONITORING NETWORK & RESOURCES OPENWRT
 4. Upload Code
 5. Done
 
+## Wiring
+ESP8266 to I2C OLED 
+1. D1 (GPIO5) > SCL
+2. D2 (GPIO4) > SDA
+
 ## Credits
 > - [nosignal](https://github.com/nosignals)
 > - [indoWRT](https://www.facebook.com/groups/728998271085718)
