@@ -4,7 +4,7 @@ MONITORING NETWORK & RESOURCES OPENWRT
 ## Requirement
 > 1. Arduino (APP)
 > 2. NODEMCU/ESP8266
-> 3. LCD 16X2 + I2C
+> 3. SSD 1306 OLED I2C
 > 4. TERPASANG [UBUS VNSTAT API](https://github.com/nosignals/ubus-vnstat-api)
 > 5. NIAT
 
@@ -14,11 +14,6 @@ MONITORING NETWORK & RESOURCES OPENWRT
 3. Edit Konfigurasi Sesuai Openwrt anda `WIFI`  `INTERFACE` `SERVER API`
 4. Upload Code
 5. Done
-
-video? comming soon hehehe
-
-## About
-nosignal is gone
 
 ## Credits
 > - [nosignal](https://github.com/nosignals)
