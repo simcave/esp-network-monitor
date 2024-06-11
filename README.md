@@ -10,7 +10,7 @@ MONITORING NETWORK & RESOURCES OPENWRT
 
 ## Installation
 1. Download/Clone repository ini
-2. DOWNLOAD/PASANG LIBRARY YANG DIBUTUHKAN ( [ArduinoJson](https://arduinojson.org/), [LiquidCrystal_I2C](https://github.com/johnrickman/LiquidCrystal_I2C), `ESPxxx` )
+2. DOWNLOAD/PASANG LIBRARY YANG DIBUTUHKAN 
 3. Edit Konfigurasi Sesuai Openwrt anda `WIFI`  `INTERFACE` `SERVER API`
 4. Upload Code
 5. Done
